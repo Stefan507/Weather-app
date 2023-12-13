@@ -24,7 +24,7 @@ def get_weather_info(location):
         return x
     
 def extract_weather_info(x):
-    
+    pass
         
 
 
